@@ -1,0 +1,14 @@
+C:\Users\sanskruti.itkar\source\repos\ShoppingApplication\bin\Debug\net8.0\ShoppingApplication.exe
+C:\Users\sanskruti.itkar\source\repos\ShoppingApplication\bin\Debug\net8.0\ShoppingApplication.deps.json
+C:\Users\sanskruti.itkar\source\repos\ShoppingApplication\bin\Debug\net8.0\ShoppingApplication.runtimeconfig.json
+C:\Users\sanskruti.itkar\source\repos\ShoppingApplication\bin\Debug\net8.0\ShoppingApplication.dll
+C:\Users\sanskruti.itkar\source\repos\ShoppingApplication\bin\Debug\net8.0\ShoppingApplication.pdb
+C:\Users\sanskruti.itkar\source\repos\ShoppingApplication\obj\Debug\net8.0\ShoppingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanskruti.itkar\source\repos\ShoppingApplication\obj\Debug\net8.0\ShoppingApplication.AssemblyInfoInputs.cache
+C:\Users\sanskruti.itkar\source\repos\ShoppingApplication\obj\Debug\net8.0\ShoppingApplication.AssemblyInfo.cs
+C:\Users\sanskruti.itkar\source\repos\ShoppingApplication\obj\Debug\net8.0\ShoppingApplication.csproj.CoreCompileInputs.cache
+C:\Users\sanskruti.itkar\source\repos\ShoppingApplication\obj\Debug\net8.0\ShoppingApplication.dll
+C:\Users\sanskruti.itkar\source\repos\ShoppingApplication\obj\Debug\net8.0\refint\ShoppingApplication.dll
+C:\Users\sanskruti.itkar\source\repos\ShoppingApplication\obj\Debug\net8.0\ShoppingApplication.pdb
+C:\Users\sanskruti.itkar\source\repos\ShoppingApplication\obj\Debug\net8.0\ShoppingApplication.genruntimeconfig.cache
+C:\Users\sanskruti.itkar\source\repos\ShoppingApplication\obj\Debug\net8.0\ref\ShoppingApplication.dll
